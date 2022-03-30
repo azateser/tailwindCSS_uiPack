@@ -67,6 +67,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Calendar Date (+)</summary>
     <img src="/projectimage/calendar-date.png">
   </details>
+  
+  <details>
+    <summary>Tags (+)</summary>
+    <img src="/projectimage/tags.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,7 +81,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Button
 - [x] Static Input
 - [x] Calendar Date
-- [ ] Tags
+- [x] Tags
 - [ ] Email Subscription
 - [ ] App & Play STORE
 - [ ] Toggle Password Visibility {req: Alpine Js}
