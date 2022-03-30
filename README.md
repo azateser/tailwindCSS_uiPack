@@ -62,6 +62,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Input (+)</summary>
     <img src="/projectimage/static-input.png">
   </details>
+  
+  <details>
+    <summary>Calendar Date (+)</summary>
+    <img src="/projectimage/calendar-date.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,7 +75,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 
 - [x] Button
 - [x] Static Input
-- [ ] Calendar Date
+- [x] Calendar Date
 - [ ] Tags
 - [ ] Email Subscription
 - [ ] App & Play STORE
