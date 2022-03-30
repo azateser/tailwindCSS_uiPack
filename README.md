@@ -72,6 +72,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Tags (+)</summary>
     <img src="/projectimage/tags.png">
   </details>
+  
+  <details>
+    <summary>Email Subscription (+)</summary>
+    <img src="/projectimage/email-subscription.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,7 +87,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Static Input
 - [x] Calendar Date
 - [x] Tags
-- [ ] Email Subscription
+- [x] Email Subscription
 - [ ] App & Play STORE
 - [ ] Toggle Password Visibility {req: Alpine Js}
 - [ ] Pricing
