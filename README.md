@@ -55,12 +55,12 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 
   <details>
     <summary>Button (+)</summary>
-    <img src="/projectimage/button.jpg">
+    <img src="/projectimage/button.png">
   </details>
   
    <details>
     <summary>Input (+)</summary>
-    <img src="/projectimage/static-input.jpg">
+    <img src="/projectimage/static-input.png">
   </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
