@@ -103,6 +103,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <img src="/projectimage/facebook-reminder.png">
   </details>
 
+   <details>
+    <summary>Toggle Password (+)</summary>
+    <img src="/projectimage/toggle-password.png">
+  </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -118,7 +123,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] VALORANT CARD
 - [x] WORKOUT CARD
 - [x] Facebook Birhday Reminder
-- [ ] Toggle Password Visibility {req: Alpine Js}
+- [x] Toggle Password Visibility {req: Alpine Js}
 - [ ] Google Login Clone
 - [ ] Master Card
 - [ ] Bitcon Card
