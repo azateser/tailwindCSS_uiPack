@@ -109,7 +109,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
   </details>
   
    <details>
-    <summary>Gogole Login Form Clone (+)</summary>
+    <summary>Google Login Form Clone (+)</summary>
     <img src="/projectimage/google-login-form-clone.png">
   </details>
 
