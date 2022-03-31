@@ -77,6 +77,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Email Subscription (+)</summary>
     <img src="/projectimage/email-subscription.png">
   </details>
+  
+   <details>
+    <summary>Pricing (+)</summary>
+    <img src="/projectimage/pricing.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,13 +93,12 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Calendar Date
 - [x] Tags
 - [x] Email Subscription
-- [ ] App & Play STORE
-- [ ] Toggle Password Visibility {req: Alpine Js}
-- [ ] Pricing
+- [x] Pricing
 - [ ] NFT CARD
 - [ ] VALORANT CARD
 - [ ] WORKOUT CARD
 - [ ] Facebook Birhday Reminder
+- [ ] Toggle Password Visibility {req: Alpine Js}
 - [ ] Google Login Clone
 - [ ] Master Card
 - [ ] Bitcon Card
