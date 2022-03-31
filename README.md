@@ -104,7 +104,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
   </details>
 
    <details>
-    <summary>Toggle Passowrd (+)</summary>
+    <summary>Toggle Password (+)</summary>
     <img src="/projectimage/toggle-password.png">
   </details>
 
