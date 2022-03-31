@@ -82,6 +82,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Pricing (+)</summary>
     <img src="/projectimage/pricing.png">
   </details>
+  
+  <details>
+    <summary>NFT Card (+)</summary>
+    <img src="/projectimage/nft-card.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,7 +99,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Tags
 - [x] Email Subscription
 - [x] Pricing
-- [ ] NFT CARD
+- [x] NFT CARD
 - [ ] VALORANT CARD
 - [ ] WORKOUT CARD
 - [ ] Facebook Birhday Reminder
