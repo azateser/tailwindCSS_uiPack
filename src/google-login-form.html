@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/dist/output.css" rel="stylesheet">
+
+    <!-- Open Sans Font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: "Open Sans", sans-serif;
+        }
+        
+        .input {
+            transition: border 0.2s ease-in-out;
+        }
+        
+        .input:focus+.label,
+        .input:active+.label,
+        .input:filled+.label {
+            font-size: .75rem;
+            transition: all 0.2s ease-out;
+            top: -0.9rem;
+            background-color: #fff;
+            color: #1a73e8;
+            padding: 0 5px 0 5px;
+            margin: 0 5px 0 5px;
+        }
+        
+        .lable {
+            transition: all 0.2s ease-out;
+            top: 0.4rem;
+            left: 0;
+        }
+    </style>
+
+    <div class="h-screen bg-indigo-100 relative flex flex-col justify-center items-center">
+        <div class="border border-gray-300 bg-white shadow-lg rounded p-10">
+            <div class="flex flex-col items-center space-y-3">
+                <svg viewBox="0 0 75 24" width="75" height="24" xmlns="http://www.w3.org/2000/svg">
+                    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,26.27451%,20.784314%);fill-opacity:1;" d="M 29.789062 12.308594 C 29.789062 15.640625 27.21875 18.09375 24.0625 18.09375 C 20.90625 18.09375 18.335938 15.640625 18.335938 12.308594 C 18.335938 8.953125 20.90625 6.523438 24.0625 6.523438 C 27.21875 6.523438 29.789062 8.953125 29.789062 12.308594 Z M 27.28125 12.308594 C 27.28125 10.226562 25.792969 8.800781 24.0625 8.800781 C 22.332031 8.800781 20.84375 10.226562 20.84375 12.308594 C 20.84375 14.367188 22.332031 15.8125 24.0625 15.8125 C 25.792969 15.8125 27.28125 14.367188 27.28125 12.308594 Z M 27.28125 12.308594 "/><path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.431373%,73.72549%,1.960784%);fill-opacity:1;" d="M 42.140625 12.308594 C 42.140625 15.640625 39.570312 18.09375 36.414062 18.09375 C 33.261719 18.09375 30.6875 15.640625 30.6875 12.308594 C 30.6875 8.957031 33.261719 6.523438 36.414062 6.523438 C 39.570312 6.523438 42.140625 8.953125 42.140625 12.308594 Z M 39.636719 12.308594 C 39.636719 10.226562 38.144531 8.800781 36.414062 8.800781 C 34.6875 8.800781 33.195312 10.226562 33.195312 12.308594 C 33.195312 14.367188 34.6875 15.8125 36.414062 15.8125 C 38.144531 15.8125 39.636719 14.367188 39.636719 12.308594 Z M 39.636719 12.308594 "/><path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.882353%,52.156863%,95.686275%);fill-opacity:1;" d="M 53.980469 6.871094 L 53.980469 17.257812 C 53.980469 21.53125 51.492188 23.277344 48.554688 23.277344 C 45.789062 23.277344 44.125 21.402344 43.496094 19.867188 L 45.675781 18.945312 C 46.066406 19.890625 47.019531 21 48.550781 21 C 50.433594 21 51.597656 19.824219 51.597656 17.609375 L 51.597656 16.777344 L 51.511719 16.777344 C 50.949219 17.476562 49.871094 18.089844 48.507812 18.089844 C 45.652344 18.089844 43.039062 15.570312 43.039062 12.328125 C 43.039062 9.0625 45.652344 6.523438 48.507812 6.523438 C 49.867188 6.523438 50.949219 7.136719 51.511719 7.816406 L 51.597656 7.816406 L 51.597656 6.875 L 53.980469 6.875 Z M 51.777344 12.328125 C 51.777344 10.292969 50.4375 8.800781 48.730469 8.800781 C 47 8.800781 45.550781 10.292969 45.550781 12.328125 C 45.550781 14.34375 47 15.8125 48.730469 15.8125 C 50.4375 15.8125 51.777344 14.34375 51.777344 12.328125 Z M 51.777344 12.328125 "/><path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,65.882353%,32.54902%);fill-opacity:1;" d="M 57.90625 0.78125 L 57.90625 17.738281 L 55.460938 17.738281 L 55.460938 0.78125 Z M 57.90625 0.78125 "/><path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.764706%,26.27451%,20.784314%);fill-opacity:1;" d="M 67.429688 14.210938 L 69.378906 15.527344 C 68.75 16.46875 67.234375 18.089844 64.621094 18.089844 C 61.378906 18.089844 58.957031 15.550781 58.957031 12.304688 C 58.957031 8.863281 61.398438 6.519531 64.339844 6.519531 C 67.304688 6.519531 68.75 8.910156 69.226562 10.199219 L 69.484375 10.855469 L 61.855469 14.0625 C 62.4375 15.222656 63.347656 15.8125 64.621094 15.8125 C 65.898438 15.8125 66.78125 15.175781 67.429688 14.210938 Z M 61.441406 12.128906 L 66.542969 9.984375 C 66.261719 9.261719 65.417969 8.757812 64.425781 8.757812 C 63.152344 8.757812 61.378906 9.898438 61.441406 12.128906 Z M 61.441406 12.128906 "/><path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.882353%,52.156863%,95.686275%);fill-opacity:1;" d="M 9.082031 10.800781 L 9.082031 8.347656 L 17.242188 8.347656 C 17.324219 8.777344 17.363281 9.28125 17.363281 9.828125 C 17.363281 11.671875 16.867188 13.949219 15.265625 15.570312 C 13.710938 17.214844 11.71875 18.089844 9.085938 18.089844 C 4.199219 18.089844 0.09375 14.058594 0.09375 9.105469 C 0.09375 4.15625 4.199219 0.121094 9.085938 0.121094 C 11.785156 0.121094 13.710938 1.199219 15.15625 2.597656 L 13.449219 4.332031 C 12.414062 3.34375 11.007812 2.578125 9.082031 2.578125 C 5.515625 2.578125 2.726562 5.492188 2.726562 9.105469 C 2.726562 12.722656 5.515625 15.636719 9.082031 15.636719 C 11.394531 15.636719 12.714844 14.695312 13.558594 13.839844 C 14.242188 13.144531 14.691406 12.152344 14.871094 10.800781 Z M 9.082031 10.800781 "/>
+                </svg>
+                <span class="text-2xl font-semibold leading-normal">Sign in</span>
+                <p class="leading-normal">Use your Google Account</p>
+            </div>
+            <form class="my-8">
+                <div class="relative mb-2">
+                    <input type="text" id="email" placeholder="Email or phone" class="w-full rounded px-3 border border-gray-300 pt-3 pb-3 focus:border-blue-700 focus:ring-1 focus:ring-blue-700 focus:outline-none input active:outline-none" autofocus>
+
+                </div>
+                <div class="space-y-9">
+                    <div>
+                        <a href="#" class="text-sm font-bold text-blue-500">Forgot email?</a>
+                    </div>
+                    <div class="text-sm">
+                        <p>Not your computer? Use Guset mode to sign in privately.</p>
+                        <a href="#" class="font-bold text-blue-500">Learn more</a>
+                    </div>
+                    <div class="text-sm flex justify-between items-center">
+                        <a href="#" class="font-bold text-blue-500 py-2 px-2 rounded -ml-2 hover:bg-blue-50 hover:text-blue-700">Create account</a>
+                        <button class="py-2 px-6 rounded text-white btn bg-blue-500 hover:bg-blue-600">Next</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>
