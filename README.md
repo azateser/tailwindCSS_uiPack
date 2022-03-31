@@ -97,6 +97,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>WORKOUT Card (+)</summary>
     <img src="/projectimage/workout-card.png">
   </details>
+  
+   <details>
+    <summary>Facebook Birhday Reminder (+)</summary>
+    <img src="/projectimage/facebook-reminder.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +117,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] NFT CARD
 - [x] VALORANT CARD
 - [x] WORKOUT CARD
-- [ ] Facebook Birhday Reminder
+- [x] Facebook Birhday Reminder
 - [ ] Toggle Password Visibility {req: Alpine Js}
 - [ ] Google Login Clone
 - [ ] Master Card
