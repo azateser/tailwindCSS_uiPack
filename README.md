@@ -79,6 +79,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
   </details>
   
    <details>
+    <summary>Call To Action (+)</summary>
+    <img src="/projectimage/call-to-action.png">
+  </details>
+  
+   <details>
     <summary>Pricing (+)</summary>
     <img src="/projectimage/pricing.png">
   </details>
@@ -128,6 +133,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Calendar Date
 - [x] Tags
 - [x] Email Subscription
+- [x] Call To Action
 - [x] Pricing
 - [x] NFT CARD
 - [x] VALORANT CARD
