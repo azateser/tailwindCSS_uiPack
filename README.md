@@ -88,6 +88,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <img src="/projectimage/nft-card.png">
   </details>
 
+  <details>
+    <summary>Workout Card (+)</summary>
+    <img src="/projectimage/workout-card.png">
+  </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -100,8 +105,8 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Email Subscription
 - [x] Pricing
 - [x] NFT CARD
-- [ ] VALORANT CARD
-- [ ] WORKOUT CARD
+- [x] VALORANT CARD
+- [x] WORKOUT CARD
 - [ ] Facebook Birhday Reminder
 - [ ] Toggle Password Visibility {req: Alpine Js}
 - [ ] Google Login Clone
