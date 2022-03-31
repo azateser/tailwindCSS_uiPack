@@ -107,6 +107,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Toggle Password (+)</summary>
     <img src="/projectimage/toggle-password.png">
   </details>
+  
+   <details>
+    <summary>Google Login Form Clone (+)</summary>
+    <img src="/projectimage/google-login-form-clone.png">
+  </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -124,7 +129,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] WORKOUT CARD
 - [x] Facebook Birhday Reminder
 - [x] Toggle Password Visibility {req: Alpine Js}
-- [ ] Google Login Clone
+- [x] Google Login Clone
 - [ ] Master Card
 - [ ] Bitcon Card
 - [ ] Cute Login
