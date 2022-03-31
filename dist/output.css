@@ -515,6 +515,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 0.5rem;
 }
 
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mx-3 {
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+}
+
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -579,6 +589,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 18rem;
 }
 
+.h-5 {
+  height: 1.25rem;
+}
+
 .w-40 {
   width: 10rem;
 }
@@ -611,6 +625,22 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 12rem;
 }
 
+.w-5 {
+  width: 1.25rem;
+}
+
+.w-24 {
+  width: 6rem;
+}
+
+.w-2 {
+  width: 0.5rem;
+}
+
+.w-1 {
+  width: 0.25rem;
+}
+
 .max-w-lg {
   max-width: 32rem;
 }
@@ -636,6 +666,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .grid-cols-12 {
   grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .flex-row {
@@ -666,6 +700,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   align-items: baseline;
 }
 
+.justify-end {
+  justify-content: flex-end;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -676,6 +714,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .gap-2 {
   gap: 0.5rem;
+}
+
+.gap-3 {
+  gap: 0.75rem;
 }
 
 .space-y-4 > :not([hidden]) ~ :not([hidden]) {
@@ -813,6 +855,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(120 113 108 / var(--tw-bg-opacity));
 }
 
+.bg-gray-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+}
+
+.bg-gray-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
@@ -849,6 +901,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.p-1 {
+  padding: 0.25rem;
 }
 
 .py-2 {
@@ -924,6 +980,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .pb-3 {
   padding-bottom: 0.75rem;
+}
+
+.pt-5 {
+  padding-top: 1.25rem;
 }
 
 .text-center {
@@ -1049,6 +1109,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(209 213 219 / var(--tw-text-opacity));
 }
 
+.text-gray-200 {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+
 .shadow-2xl {
   --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
   --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
@@ -1074,6 +1139,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .duration-500 {
   transition-duration: 500ms;
+}
+
+.duration-100 {
+  transition-duration: 100ms;
 }
 
 .hover\:rounded-md:hover {
@@ -1128,6 +1197,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .hover\:bg-green-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(22 163 74 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-gray-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
 
 .hover\:text-white:hover {
