@@ -73,6 +73,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <img src="/projectimage/tags.png">
   </details>
   
+   <details>
+    <summary>Terminal (+)</summary>
+    <img src="/projectimage/terminal.png">
+  </details>
+  
   <details>
     <summary>Email Subscription (+)</summary>
     <img src="/projectimage/email-subscription.png">
@@ -137,6 +142,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Static Input
 - [x] Calendar Date
 - [x] Tags
+- [x] Terminal
 - [x] Email Subscription
 - [x] Call To Action
 - [x] Pricing
