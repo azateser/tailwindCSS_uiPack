@@ -54,9 +54,8 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 ## UI Images
 
   <details>
-    <summary>Button (+)</summary>
+    <summary>Button (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/button.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/button.png">
-    <a href="https://azateser.github.io/tailwindCSS_uiPack/src/button.html" target="_blank">Live Preview<a>
   </details>
   
    <details>
