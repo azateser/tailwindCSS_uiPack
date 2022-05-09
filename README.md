@@ -59,82 +59,82 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
   </details>
   
    <details>
-    <summary>Input (+)</summary>
+    <summary>Input (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/static_input.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/static-input.png">
   </details>
   
   <details>
-    <summary>Calendar Date (+)</summary>
+    <summary>Calendar Date (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/calendar_date.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/calendar-date.png">
   </details>
   
   <details>
-    <summary>Tags (+)</summary>
+    <summary>Tags (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/tags.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/tags.png">
   </details>
   
    <details>
-    <summary>Terminal (+)</summary>
+    <summary>Terminal (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/terminal.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/terminal.png">
   </details>
   
   <details>
-    <summary>Email Subscription (+)</summary>
+    <summary>Email Subscription (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/email-subscription.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/email-subscription.png">
   </details>
   
    <details>
-    <summary>Call To Action (+)</summary>
+    <summary>Call To Action (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/call-to-action.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/call-to-action.png">
   </details>
   
    <details>
-    <summary>Pricing (+)</summary>
+    <summary>Pricing (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/pricing.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/pricing.png">
   </details>
   
   <details>
-    <summary>NFT Card (+)</summary>
+    <summary>NFT Card (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/nft-card.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/nft-card.png">
   </details>
   
    <details>
-    <summary>VALORANT Card (+)</summary>
+    <summary>VALORANT Card (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/valorant-card.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/valorant-card.png">
   </details>
   
    <details>
-    <summary>WORKOUT Card (+)</summary>
+    <summary>WORKOUT Card (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/workout-card.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/workout-card.png">
   </details>
   
    <details>
-    <summary>Facebook Birhday Reminder (+)</summary>
+    <summary>Facebook Birhday Reminder (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/facebook-reminder.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/facebook-reminder.png">
   </details>
 
    <details>
-    <summary>Toggle Password (+)</summary>
+    <summary>Toggle Password (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/toggle-password.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/toggle-password.png">
   </details>
   
    <details>
-    <summary>Select User (+)</summary>
+    <summary>Select User (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/select-user.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/select-user.png">
   </details>
   
    <details>
-    <summary>Google Login Form Clone (+)</summary>
+    <summary>Google Login Form Clone (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/google-login-form.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/google-login-form-clone.png">
   </details>
   
   <details>
-    <summary>Mastercard (+)</summary>
+    <summary>Mastercard (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/mastercard.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/mastercard.png">
   </details>
 
   <details>
-    <summary>Bitcoin Card (+)</summary>
+    <summary>Bitcoin Card (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/bitcoin-card.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/bitcoin-card.png">
   </details>
 
