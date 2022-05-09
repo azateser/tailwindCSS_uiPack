@@ -112,20 +112,10 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <summary>Facebook Birhday Reminder (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/facebook-reminder.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/facebook-reminder.png">
   </details>
-
-   <details>
-    <summary>Toggle Password (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/toggle-password.html" target="_blank">Live Preview<a></summary>
-    <img src="/projectimage/toggle-password.png">
-  </details>
   
    <details>
     <summary>Select User (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/select-user.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/select-user.png">
-  </details>
-  
-   <details>
-    <summary>Google Login Form Clone (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/google-login-form.html" target="_blank">Live Preview<a></summary>
-    <img src="/projectimage/google-login-form-clone.png">
   </details>
   
   <details>
@@ -141,6 +131,31 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
   <details>
     <summary>Cute Login (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/cute-login.html" target="_blank">Live Preview<a></summary>
     <img src="/projectimage/cute-login.png">
+  </details>
+
+  <details>
+    <summary>Amazon Register (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/amazon-register.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/amazon-register.png">
+  </details>
+
+  <details>
+    <summary>Google Login Form Clone (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/google-login-form.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/google-login-form-clone.png">
+  </details>
+
+  <details>
+    <summary>Instagram Login (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/instagram-login.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/instagram-login.png">
+  </details>
+
+  <details>
+    <summary>Paypal Login (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/paypal-login.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/paypal-login.png">
+  </details>
+
+   <details>
+    <summary>Toggle Password (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/toggle-password.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/toggle-password.png">
   </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
