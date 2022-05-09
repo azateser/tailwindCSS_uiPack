@@ -166,11 +166,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Master Card
 - [x] Bitcon Card
 - [x] Cute Login
-- [ ] Amazone Register Clone
-- [ ] Google Login Clone
-- [ ] Instagram Login Clone
-- [ ] Paypal Login Clone
-- [ ] Toggle Password Visibility {req: Alpine Js}
+- [x] Amazone Register Clone
+- [x] Google Login Clone
+- [x] Instagram Login Clone
+- [x] Paypal Login Clone
+- [x] Toggle Password Visibility {req: Alpine Js}
 - [ ] Travel UI
     - [ ] 1
     - [ ] 2
