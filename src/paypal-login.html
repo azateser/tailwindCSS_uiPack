@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../dist/output.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="flex items-center justify-center min-h-screen bg-white">
+        <div class="p-10 border -mt-10 border-slate-200 rounded-xl flex flex-col items-center space-y-3">
+            <div class="py-8">
+                <img width="30" class="-mt-10" src="../src/assets/paypal-login/paypal-logo.png" alt="paypal-logo">
+            </div>
+            <input type="email" class="p-3 border border-slate-500 rounded-sm w-80 focus:outline-blue-400" placeholder="Email or mobile number" />
+            <div class="flex flex-col space-y-1">
+                <input type="password" class="p-3 border border-slate-500 rounded-sm w-80 focus:outline-blue-400" placeholder="Password" />
+                <p class="text-[#0070ba] hover:underline font-bold">Forgot password?</p>
+            </div>
+            <div class="flex flex-col w-full space-y-5">
+                <button class="w-full bg-[#0070ba] rounded-3xl p-3 text-white font-bold transition duration-200 hover:bg-[#003087]">Log in</button>
+                <div class="flex items-center justify-center border-t border-t-slate-300 w-full relative ">
+                    <div class="absolute px-5 -mt-1 bg-white font-bold">or</div>
+                </div>
+                <button class="w-full transition-all duration-300 border-blue-900 hover:border-[#003087] border hover:border-2 rounded-3xl p-3 text-[#0070ba] font-bold">Sign Up</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
