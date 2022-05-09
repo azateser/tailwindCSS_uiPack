@@ -138,6 +138,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <img src="/projectimage/bitcoin-card.png">
   </details>
 
+  <details>
+    <summary>Cute Login (+) <a href="https://azateser.github.io/tailwindCSS_uiPack/src/cute-login.html" target="_blank">Live Preview<a></summary>
+    <img src="/projectimage/cute-login.png">
+  </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -160,7 +165,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Google Login Clone
 - [x] Master Card
 - [x] Bitcon Card
-- [ ] Cute Login
+- [x] Cute Login
 - [ ] Amazone Register Clone
 - [ ] Google Login Clone
 - [ ] Instagram Login Clone
