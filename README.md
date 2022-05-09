@@ -128,6 +128,11 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
     <img src="/projectimage/mastercard.png">
   </details>
 
+  <details>
+    <summary>Bitcoin Card (+)</summary>
+    <img src="/projectimage/bitcoin-card.png">
+  </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -148,7 +153,7 @@ _For more examples, please refer to the [CODEPEN.IO](https://codepen.io/azateser
 - [x] Select User
 - [x] Google Login Clone
 - [x] Master Card
-- [ ] Bitcon Card
+- [x] Bitcon Card
 - [ ] Cute Login
 - [ ] Amazone Register Clone
 - [ ] Google Login Clone
